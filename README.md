@@ -1,4 +1,4 @@
-Olá! Eu sou John Balth 👋
+Olá! Eu sou Jonatas Balthazar 👋
 Desenvolvedor em formação | Python • Django • Desenvolvimento Web
 
 Sou estudante de programação em busca da minha primeira oportunidade profissional na área de desenvolvimento de software.
